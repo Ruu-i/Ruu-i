@@ -1,9 +1,11 @@
 ## Hi there 👋
 
+### :woman_technologist: About Me :
+I am an adaptive, hardworking tech enthusiast
+---
 <!--
 **Ruu-i/Ruu-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Adaptive, hardworking tech enthusiast
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,3 +19,6 @@ Adaptive, hardworking tech enthusiast
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform"  alt="terraform" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="40" height="40"/>&nbsp;
