@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### :woman_technologist: About Me :
-I am an adaptive, hardworking tech enthusiast
+- I am an adaptive, hardworking tech enthusiast
 ---
 <!--
 **Ruu-i/Ruu-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,4 @@ I am an adaptive, hardworking tech enthusiast
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform"  alt="terraform" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore"  alt="dotnetcore" width="40" height="40"/>&nbsp;
