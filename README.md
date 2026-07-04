@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### :woman_technologist: About Me :
-#### I am an adaptive, hardworking tech enthusiast
+#### I am an adaptive tech enthusiast
 ---
 <!--
 **Ruu-i/Ruu-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
